@@ -1,7 +1,5 @@
 <h1 align="center"> Hi, I'm Radouane SAID </h1>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" style="max-width: 100%;" width="100%">
-
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <h3 align="center">Languages</h3>
